@@ -1,6 +1,8 @@
 # Let's Study - Downloads
-Repositorio donde descargar las versiones distribuibles de Let's Study
-Podéis utilizar online en la url https://apuntesfpinformatica.es/letsstudy/
+Repositorio donde descargar las versiones distribuibles de Let's Study.
+
+ONLINE
+- Podéis utilizar la APP online en https://apuntesfpinformatica.es/letsstudy/
 
 ANDROID
 - APK para Android https://github.com/sergarb1/letsstudy-downloads/blob/master/Downloads/Android/letsstudy-release.apk
