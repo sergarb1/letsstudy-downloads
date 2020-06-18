@@ -1,5 +1,8 @@
-# Let's Study - Downloads
+# Let's Study - Downloads (Actualizado 18/06/2020)
 Repositorio donde descargar las versiones distribuibles de Let's Study.
+
+REPOSITORIO DEL PROYECTO
+- Repositorio: https://github.com/sergarb1/letsstudy
 
 ONLINE
 - Podéis utilizar la APP online en https://apuntesfpinformatica.es/letsstudy/
