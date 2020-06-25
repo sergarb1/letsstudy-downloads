@@ -1,4 +1,4 @@
-# Let's Study - Downloads (Actualizado 20/06/2020)
+# Let's Study - Downloads (Actualizado 24/06/2020)
 Repositorio donde descargar las versiones distribuibles de Let's Study.
 
 REPOSITORIO DEL PROYECTO
@@ -8,6 +8,7 @@ ONLINE
 - Podéis utilizar la APP online en https://apuntesfpinformatica.es/letsstudy/
 
 ANDROID
+- Enlace a Google Play https://play.google.com/store/apps/details?id=org.ceedcv.letsstudy
 - APK para Android https://github.com/sergarb1/letsstudy-downloads/blob/master/Downloads/Android/letsstudy-release.apk
 
 ESCRITORIO
