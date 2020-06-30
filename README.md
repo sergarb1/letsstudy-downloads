@@ -1,4 +1,4 @@
-# Let's Study - Downloads (Actualizado 26/06/2020)
+# Let's Study - Downloads (Actualizado 30/06/2020)
 Repositorio donde descargar las versiones distribuibles de Let's Study.
 
 REPOSITORIO DEL PROYECTO
